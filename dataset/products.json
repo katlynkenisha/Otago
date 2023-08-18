@@ -1,0 +1,30 @@
+{"id": "1", "category": "Eggs", "brand": "Joe's Farm", "price": "10"}
+{"id": "2", "category": "Dairy Products", "brand": "Joe's Farm", "price": "12"}
+{"id": "3", "category": "Breads", "brand": "Joe's Farm", "price": "8"}
+{"id": "4", "category": "Fruits and Vegetables", "brand": "Joe's Farm", "price": "6"}
+{"id": "5", "category": "Sugar and Spices", "brand": "Joe's Farm", "price": "5"}
+{"id": "6", "category": "Cooking Oils", "brand": "Joe's Farm", "price": "10"}
+{"id": "7", "category": "Eggs", "brand": "Vegetarian Choice", "price": "12"}
+{"id": "8", "category": "Dairy Products", "brand": "Vegetarian Choice", "price": "16"}
+{"id": "9", "category": "Breads", "brand": "Vegetarian Choice", "price": "12"}
+{"id": "10", "category": "Fruits and Vegetables", "brand": "Vegetarian Choice", "price": "10"}
+{"id": "11", "category": "Sugar and Spices", "brand": "Vegetarian Choice", "price": "5"}
+{"id": "12", "category": "Cooking Oils", "brand": "Vegetarian Choice", "price": "12"}
+{"id": "13", "category": "Eggs", "brand": "Auckland's Best", "price": "14"}
+{"id": "14", "category": "Dairy Products", "brand": "Auckland's Best", "price": "16"}
+{"id": "15", "category": "Breads", "brand": "Auckland's Best", "price": "11"}
+{"id": "16", "category": "Fruits and Vegetables", "brand": "Auckland's Best", "price": "12"}
+{"id": "17", "category": "Sugar and Spices", "brand": "Auckland's Best", "price": "5"}
+{"id": "18", "category": "Cooking Oils", "brand": "Auckland's Best", "price": "13"}
+{"id": "19", "category": "Eggs", "brand": "Pure Green", "price": "15"}
+{"id": "20", "category": "Dairy Products", "brand": "Pure Green", "price": "18"}
+{"id": "21", "category": "Breads", "brand": "Pure Green", "price": "15"}
+{"id": "22", "category": "Fruits and Vegetables", "brand": "Pure Green", "price": "12"}
+{"id": "23", "category": "Sugar and Spices", "brand": "Pure Green", "price": "6"}
+{"id": "24", "category": "Cooking Oils", "brand": "Pure Green", "price": "13"}
+{"id": "25", "category": "Eggs", "brand": "Healthree", "price": "20"}
+{"id": "26", "category": "Dairy Products", "brand": "Healthree", "price": "22"}
+{"id": "27", "category": "Breads", "brand": "Healthree", "price": "16"}
+{"id": "28", "category": "Fruits and Vegetables", "brand": "Healthree", "price": "15"}
+{"id": "29", "category": "Sugar and Spices", "brand": "Healthree", "price": "8"}
+{"id": "30", "category": "Cooking Oils", "brand": "Healthree", "price": "16"}
